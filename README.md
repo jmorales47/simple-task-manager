@@ -1,7 +1,7 @@
 # Simple task manager
 Simple web app for task management using Spring Boot and Axios
 
-##Usage
+## Usage
 First, compile the app using maven plugin included with the Spring Boot project:
 
 ```bash
