@@ -1,4 +1,4 @@
-# simple-task-manager
+# Simple task manager
 Simple web app for task management using Spring Boot and Axios
 
 First, compile the app using maven plugin included with the Spring Boot project:
